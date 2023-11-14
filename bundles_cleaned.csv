@@ -1,0 +1,670 @@
+﻿msisdn;id;genre;pays;ville;segments;pass_data;nb_tot_data;conso_tot_data;pass_agora;nb_tot_agora;conso_tot_agora;pass_mix;nb_tot_mix;conso_tot_mix;pass_inter;nb_tot_inter;conso_tot_inter
+2250777102337;170109728;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;27;10 300;NaN;NaN;NaN;PASS MIX;7;1 600;NaN;NaN;NaN
+2250759888900;169542032;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;3;4 500;NaN;NaN;NaN
+2250748850181;169364945;Homme;Cote d¿Ivoire;Gagnoa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;1 700;NaN;NaN;NaN
+2250767388684;169415108;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;1 300;NaN;NaN;NaN
+2250749595662;169460543;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250768644111;169462805;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;800;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250798432271;169418003;Femme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;6;2 300;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250759548950;169526331;Homme;Cote d¿Ivoire;Man;Fun Seeker;PASS DATA;6;1 700;NaN;NaN;NaN;PASS MIX;9;5 500;NaN;NaN;NaN
+2250789187616;169462806;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;4;3 500;NaN;NaN;NaN;PASS MIX;9;4 500;NaN;NaN;NaN
+2250759045152;169782370;Homme;Cote d¿Ivoire;Gagnoa;Digital Newcomer;PASS DATA;5;1 700;NaN;NaN;NaN;PASS MIX;15;4 600;NaN;NaN;NaN
+2250708942886;169804878;Femme;Cote d¿Ivoire;Korhogo;Digital Newcomer;PASS DATA;14;4 400;NaN;NaN;NaN;PASS MIX;5;1 200;NaN;NaN;NaN
+2250703972391;169503070;Femme;Cote d¿Ivoire;Divo;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;650;NaN;NaN;NaN
+2250707324974;169364946;Femme;Cote d¿Ivoire;Gagnoa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;10;2 300;NaN;NaN;NaN
+2250758174771;169596957;Homme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;43;20 500;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250767622199;169711497;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;4 300;NaN;NaN;NaN
+2250779646007;169803929;Femme;Cote d¿Ivoire;Abidjan;Digital Hesitant;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;2;3 300;NaN;NaN;NaN
+2250797004870;169503317;Homme;Cote d¿Ivoire;Daloa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;9;2 700;NaN;NaN;NaN
+2250708867144;169497378;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;31;14 000;NaN;NaN;NaN;PASS MIX;6;1 900;NaN;NaN;NaN
+2250788061263;169368462;Homme;Cote d¿Ivoire;San pedro;Fun Seeker;PASS DATA;27;11 800;PASS AGORA;2;240;PASS MIX;8;2 000;NaN;NaN;NaN
+2250758531157;169753154;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;10;3 000;NaN;NaN;NaN;PASS MIX;12;3 800;NaN;NaN;NaN
+2250767077464;169389957;Homme;Cote d¿Ivoire;Man;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;1 600;NaN;NaN;NaN
+2250779525211;169414243;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;45;21 000;NaN;NaN;NaN;PASS MIX;5;1 400;NaN;NaN;NaN
+2250700607580;170145211;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;3 500;NaN;NaN;NaN
+2250779342940;169804822;Homme;Cote d¿Ivoire;Korhogo;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;5 000;NaN;NaN;NaN
+2250704253022;169523569;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;15;3 900;NaN;NaN;NaN;PASS MIX;11;2 700;NaN;NaN;NaN
+2250747603043;169640103;Homme;Cote d¿Ivoire;Korhogo;Digital Newcomer;PASS DATA;9;6 000;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250757896291;169411507;Homme;Cote d¿Ivoire;Abengourou;Elite Tech;PASS DATA;4;3 500;NaN;NaN;NaN;PASS MIX;4;2 000;NaN;NaN;NaN
+2250767997034;169554005;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;7;2 800;NaN;NaN;NaN;PASS MIX;3;1 500;NaN;NaN;NaN
+2250747019370;169460835;Femme;Cote d¿Ivoire;Bouake;Digital Hesitant;PASS DATA;2;1 000;NaN;NaN;NaN;PASS MIX;7;3 500;NaN;NaN;NaN
+2250708099181;170173768;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;3;3 000;NaN;NaN;NaN;PASS MIX;6;8 000;NaN;NaN;NaN
+2250748473454;169474360;Homme;Cote d¿Ivoire;Soubre;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;2 000;PASS INTER;3;1 500
+2250708910197;169767262;Homme;Cote d¿Ivoire;San pedro;Digital Hesitant;PASS DATA;1;150;NaN;NaN;NaN;PASS MIX;3;1 150;NaN;NaN;NaN
+2250707066998;169545947;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;7;4 200;NaN;NaN;NaN;PASS MIX;14;2 800;NaN;NaN;NaN
+2250787580026;169469877;Homme;Cote d¿Ivoire;Soubre;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250708807803;169464512;Femme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250757132412;169503071;Homme;Cote d¿Ivoire;Divo;Young Aspirer;PASS DATA;2;700;NaN;NaN;NaN;PASS MIX;5;1 800;NaN;NaN;NaN
+2250749464698;169787920;Femme;Cote d¿Ivoire;Bouake;Digital Hesitant;PASS DATA;5;4 000;NaN;NaN;NaN;PASS MIX;6;5 000;NaN;NaN;NaN
+2250769152131;169493858;Homme;Cote d¿Ivoire;Divo;Collective Engaged;PASS DATA;3;600;NaN;NaN;NaN;PASS MIX;5;1 600;NaN;NaN;NaN
+2250708607108;169336720;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;4;1 900;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250749116550;169420460;Homme;Cote d¿Ivoire;Yamoussoukro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;1 250;NaN;NaN;NaN
+2250759391367;170206864;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;2;1 200;NaN;NaN;NaN;PASS MIX;9;2 550;NaN;NaN;NaN
+2250789826696;169453591;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Hesitant;PASS DATA;4;2 000;NaN;NaN;NaN;PASS MIX;5;1 600;NaN;NaN;NaN
+2250757339272;170109729;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;4;1 650;NaN;NaN;NaN
+2250748061833;169358933;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;18;22 300;NaN;NaN;NaN;PASS MIX;7;2 900;NaN;NaN;NaN
+2250748895374;169507690;Femme;Cote d¿Ivoire;Gagnoa;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;1 000;NaN;NaN;NaN
+2250749286543;169625866;Femme;Cote d¿Ivoire;Abengourou;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;3 000;NaN;NaN;NaN
+2250748827792;169540367;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;2 000;NaN;NaN;NaN
+2250747283605;170213453;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;1 000;NaN;NaN;NaN
+2250700736664;169464730;Homme;Cote d¿Ivoire;Daloa;Digital Newcomer;PASS DATA;21;18 800;NaN;NaN;NaN;PASS MIX;4;12 000;NaN;NaN;NaN
+2250749812890;169796550;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;6;1 900;NaN;NaN;NaN;PASS MIX;5;1 900;NaN;NaN;NaN
+2250708986017;169402312;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;4;2 000;NaN;NaN;NaN;PASS MIX;5;1 600;NaN;NaN;NaN
+225075962018;170176621;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;600;NaN;NaN;NaN;PASS MIX;2;400;NaN;NaN;NaN
+2250704107683;169542113;Femme;Cote d¿Ivoire;Bouake;Fun Seeker;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;2;300;NaN;NaN;NaN
+2250748059816;169749771;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747097259;169807972;Homme;Cote d¿Ivoire;Daloa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250778366132;169354614;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777436343;169340763;Homme;Cote d¿Ivoire;Abidjan;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250778546361;169464865;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787369148;169540361;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779021500;169414242;Homme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250789023934;169759178;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708005058;169366962;Femme;Cote d¿Ivoire;San pedro;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748858563;169413511;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708250820;169777206;Homme;Cote d¿Ivoire;Korhogo;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779199685;169629753;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;4;3 500;NaN;NaN;NaN;PASS MIX;9;4 500;NaN;NaN;NaN
+2250789486787;169404662;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;1 500;NaN;NaN;NaN
+2250758789323;170099547;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;15;5 800;NaN;NaN;NaN;PASS MIX;4;1 300;NaN;NaN;NaN
+2250779873485;169542002;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;8;1 550;NaN;NaN;NaN;PASS MIX;12;2 850;NaN;NaN;NaN
+2250747291857;169409813;Homme;Cote d¿Ivoire;Gagnoa;Rural Basic;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;5;3 000;NaN;NaN;NaN
+2250767204565;169573712;Homme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;17;10 100;NaN;NaN;NaN;PASS MIX;9;2 000;NaN;NaN;NaN
+2250749022424;169535148;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;23;8 300;NaN;NaN;NaN;PASS MIX;25;7 600;NaN;NaN;NaN
+2250777428186;169402459;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;5;3 800;PASS AGORA;4;1 400;PASS MIX;6;3 700;NaN;NaN;NaN
+2250708148444;169823636;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;19;10 800;NaN;NaN;NaN;PASS MIX;3;1 500;NaN;NaN;NaN
+2250749802717;169759181;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;2;900;NaN;NaN;NaN;PASS MIX;4;1 400;NaN;NaN;NaN
+2250759254237;170193780;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;10;13 500;NaN;NaN;NaN;PASS MIX;2;3 500;NaN;NaN;NaN
+225072343273;169542114;Homme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;38;18 400;PASS AGORA;2;60;PASS MIX;5;1 000;NaN;NaN;NaN
+2250758074604;169358934;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;11;2 800;NaN;NaN;NaN;PASS MIX;10;2 100;NaN;NaN;NaN
+225078950129;170049369;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;5 000;NaN;NaN;NaN
+2250708097270;169411508;Homme;Cote d¿Ivoire;Abengourou;Fun Seeker;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;4;1 700;NaN;NaN;NaN
+2250708420856;169483342;Homme;Cote d¿Ivoire;Divo;Rural Basic;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;16;4 400;NaN;NaN;NaN
+2250748983548;169541037;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;9;2 700;NaN;NaN;NaN
+2250757232894;169789192;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;3;700;NaN;NaN;NaN;PASS MIX;7;1 800;NaN;NaN;NaN
+2250748827902;169797492;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;19;10 800;NaN;NaN;NaN;PASS MIX;3;1 500;NaN;NaN;NaN
+225078952192;169362332;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;1 100;NaN;NaN;NaN;PASS MIX;4;1 500;NaN;NaN;NaN
+2250778603779;169420046;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;3;900;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250759129349;169430533;Femme;Cote d¿Ivoire;Daloa;Digital Hesitant;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;13;2 700;NaN;NaN;NaN
+2250708400390;169759973;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;11;2 450;NaN;NaN;NaN
+2250709641478;169541433;Femme;Cote d¿Ivoire;Bouake;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;12;3 100;NaN;NaN;NaN
+2250778011912;170098612;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250759966984;169729858;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;3;1 600;NaN;NaN;NaN;PASS MIX;3;1 000;NaN;NaN;NaN
+2250798414089;169409840;Femme;Cote d¿Ivoire;Daloa;Digital Newcomer;PASS DATA;3;900;NaN;NaN;NaN;PASS MIX;27;12 300;NaN;NaN;NaN
+2250749581575;169460426;Femme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;PASS DATA;2;1 000;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250789345553;169535933;Homme;Cote d¿Ivoire;Yamoussoukro;Fun Seeker;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;7;1 850;NaN;NaN;NaN
+2250768470290;169827977;Femme;Cote d¿Ivoire;Bouake;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;1 300;NaN;NaN;NaN
+2250708855066;169356682;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250701265180;170176619;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;16;3 400;NaN;NaN;NaN;PASS MIX;14;2 900;NaN;NaN;NaN
+2250708541725;169809526;Homme;Cote d¿Ivoire;San pedro;Digital Hesitant;PASS DATA;4;1 400;NaN;NaN;NaN;PASS MIX;5;1 600;NaN;NaN;NaN
+2250707855645;169463526;Homme;Cote d¿Ivoire;Bouake;Fun Seeker;PASS DATA;11;3 800;NaN;NaN;NaN;PASS MIX;9;2 700;NaN;NaN;NaN
+2250702960926;170177643;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;4;2 800;NaN;NaN;NaN;PASS MIX;7;2 100;NaN;NaN;NaN
+2250757499178;169789197;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;16;11 800;NaN;NaN;NaN;PASS MIX;1;3 000;NaN;NaN;NaN
+2250749317419;169824394;Homme;Cote d¿Ivoire;Divo;Rural Basic;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250701232430;169802013;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;1 000;NaN;NaN;NaN
+2250787000623;169540373;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250789744942;169368463;Homme;Cote d¿Ivoire;San pedro;Fun Seeker;PASS DATA;2;500;NaN;NaN;NaN;PASS MIX;19;5 600;NaN;NaN;NaN
+2250789790001;169493868;Femme;Cote d¿Ivoire;Divo;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250749004083;169824397;Femme;Cote d¿Ivoire;Divo;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;1 100;NaN;NaN;NaN
+2250703481140;169607357;Femme;Cote d¿Ivoire;Korhogo;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709535027;169802016;Homme;Cote d¿Ivoire;Abidjan;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777606454;169541038;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250769639739;169457922;Femme;Cote d¿Ivoire;Abengourou;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777170238;169802391;Homme;Cote d¿Ivoire;Man;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250768143494;169493274;Homme;Cote d¿Ivoire;Soubre;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250757423432;169439743;Homme;Cote d¿Ivoire;Gagnoa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250767192397;169542004;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747011408;169807968;Femme;Cote d¿Ivoire;Daloa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788966739;169603518;Femme;Cote d¿Ivoire;Daloa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749741402;169404658;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;27;11 800;PASS AGORA;2;240;PASS MIX;8;2 000;NaN;NaN;NaN
+2250787860827;169460541;Femme;Cote d¿Ivoire;Abidjan;Young Aspirer;PASS DATA;13;2 300;NaN;NaN;NaN;PASS MIX;6;950;NaN;NaN;NaN
+2250707194204;169404660;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;5;1 300;NaN;NaN;NaN;PASS MIX;8;2 000;NaN;NaN;NaN
+2250707536219;169443231;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;PASS AGORA;2;200;PASS MIX;8;3 600;NaN;NaN;NaN
+2250778181982;169464613;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;4;3 500;NaN;NaN;NaN;PASS MIX;5;2 500;NaN;NaN;NaN
+2250778800478;169460334;Homme;Cote d¿Ivoire;Yamoussoukro;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;2 000;PASS INTER;3;1 500
+2250709971296;169737088;Homme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;PASS DATA;10;5 900;NaN;NaN;NaN;PASS MIX;3;2 000;NaN;NaN;NaN
+2250709256544;169419023;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;2;3 500;NaN;NaN;NaN
+2250767931748;169904827;Homme;Cote d¿Ivoire;Man;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;9 000;NaN;NaN;NaN
+2250749213031;169754168;Homme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;PASS DATA;11;2 500;NaN;NaN;NaN;PASS MIX;17;4 700;NaN;NaN;NaN
+2250758588775;169823685;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;5;2 500;NaN;NaN;NaN
+2250759096679;170098615;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;300;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749411689;169470177;Homme;Cote d¿Ivoire;San pedro;Young Aspirer;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;4;1 800;NaN;NaN;NaN
+2250707726699;169500949;Femme;Cote d¿Ivoire;Daloa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;11 500;NaN;NaN;NaN
+2250768740731;170065603;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;4;2 800;NaN;NaN;NaN;PASS MIX;7;2 100;NaN;NaN;NaN
+2250708760965;169335041;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;9;2 450;NaN;NaN;NaN;PASS MIX;9;2 050;NaN;NaN;NaN
+2250789765511;169752044;Femme;Cote d¿Ivoire;Yamoussoukro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;15;4 200;NaN;NaN;NaN
+2250749479305;169511936;Homme;Cote d¿Ivoire;Abengourou;Digital Hesitant;PASS DATA;14;7 500;NaN;NaN;NaN;PASS MIX;12;4 800;NaN;NaN;NaN
+2250758244748;169460223;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;10;5 800;NaN;NaN;NaN
+2250747900301;169536430;Homme;Cote d¿Ivoire;Gagnoa;Digital Hesitant;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;11;2 200;NaN;NaN;NaN
+2250789581198;170109731;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;2 200;NaN;NaN;NaN
+2250758492559;169469190;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;5;3 700;NaN;NaN;NaN;PASS MIX;9;7 000;NaN;NaN;NaN
+2250757044625;169429560;Homme;Cote d¿Ivoire;Korhogo;Young Aspirer;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;16;4 400;NaN;NaN;NaN
+2250709754271;169523566;Femme;Cote d¿Ivoire;Abidjan;Young Aspirer;PASS DATA;12;5 700;NaN;NaN;NaN;PASS MIX;6;2 700;NaN;NaN;NaN
+2250757513633;169460221;Femme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;7;2 800;NaN;NaN;NaN;PASS MIX;3;1 500;NaN;NaN;NaN
+2250749788586;169360967;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;5;2 000;PASS AGORA;2;260;PASS MIX;1;200;NaN;NaN;NaN
+2250777002412;169796549;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;17;8 300;NaN;NaN;NaN
+2250788174254;169358076;Femme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;PASS DATA;1;5 000;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250777786800;170160867;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;8;2 300;NaN;NaN;NaN;PASS MIX;15;3 350;NaN;NaN;NaN
+2250700509620;169796502;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;11;4 500;PASS AGORA;3;360;PASS MIX;11;3 600;NaN;NaN;NaN
+2250778544565;170199314;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;2;400;NaN;NaN;NaN;PASS MIX;9;4 000;NaN;NaN;NaN
+2250768988599;169414334;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;300;PASS INTER;2;800
+2250778532284;169603514;Femme;Cote d¿Ivoire;Daloa;Digital Newcomer;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250789310914;169442275;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;8;1 550;NaN;NaN;NaN;PASS MIX;12;2 850;NaN;NaN;NaN
+2250777940430;169383237;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250759899600;169513651;Femme;Cote d¿Ivoire;Daloa;Fun Seeker;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;18;9 000;NaN;NaN;NaN
+2250700779991;170173665;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250702766552;169335313;Femme;Cote d¿Ivoire;Abidjan;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250759770593;169460424;Femme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777649636;169545933;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250758070756;170102670;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788000231;169445062;Femme;Cote d¿Ivoire;Man;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250769736180;169535147;Homme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;45;21 000;NaN;NaN;NaN;PASS MIX;5;1 400;NaN;NaN;NaN
+2250768357879;169499053;Homme;Cote d¿Ivoire;Korhogo;Collective Engaged;PASS DATA;14;4 400;NaN;NaN;NaN;PASS MIX;5;1 200;NaN;NaN;NaN
+2250787291644;169767164;Homme;Cote d¿Ivoire;Gagnoa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;11;8 500;NaN;NaN;NaN
+2250707606013;170070501;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;8 000;NaN;NaN;NaN
+2250748664319;169462800;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;2;1 200;NaN;NaN;NaN;PASS MIX;9;2 550;NaN;NaN;NaN
+2250789347839;169630179;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;10;7 300;NaN;NaN;NaN;PASS MIX;6;3 400;NaN;NaN;NaN
+2250748389889;169457634;Homme;Cote d¿Ivoire;Abengourou;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;11 300;NaN;NaN;NaN
+2250708890118;169804820;Femme;Cote d¿Ivoire;Korhogo;Digital Hesitant;PASS DATA;3;1 500;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250707091975;169411111;Homme;Cote d¿Ivoire;Abidjan;Young Aspirer;PASS DATA;11;2 500;NaN;NaN;NaN;PASS MIX;17;4 700;NaN;NaN;NaN
+2250759307784;169418701;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;27;21 600;NaN;NaN;NaN;PASS MIX;11;2 350;NaN;NaN;NaN
+2250707384842;169749770;Femme;Cote d¿Ivoire;Yamoussoukro;Fun Seeker;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;5;5 200;NaN;NaN;NaN
+2250788878859;169798054;Femme;Cote d¿Ivoire;Gagnoa;Collective Engaged;PASS DATA;11;4 800;NaN;NaN;NaN;PASS MIX;9;4 900;NaN;NaN;NaN
+2250758050316;169463380;Homme;Cote d¿Ivoire;Daloa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;12;5 050;NaN;NaN;NaN
+2250778173965;169439491;Homme;Cote d¿Ivoire;San pedro;Digital Hesitant;PASS DATA;43;20 500;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250778190356;169384247;Homme;Cote d¿Ivoire;Korhogo;Fun Seeker;PASS DATA;10;3 200;NaN;NaN;NaN;PASS MIX;1;1 000;NaN;NaN;NaN
+2250798604821;169420462;Femme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;PASS DATA;2;2 000;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250777438742;169551281;Femme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;8;2 600;NaN;NaN;NaN;PASS MIX;5;1 200;NaN;NaN;NaN
+2250708048408;169465065;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250708394529;169418958;Homme;Cote d¿Ivoire;Bouake;Fun Seeker;PASS DATA;8;2 400;NaN;NaN;NaN;PASS MIX;3;1 000;NaN;NaN;NaN
+2250747472418;169503717;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;1;300;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250767391268;169461820;Femme;Cote d¿Ivoire;Gagnoa;Rural Basic;PASS DATA;10;13 500;NaN;NaN;NaN;PASS MIX;2;3 500;NaN;NaN;NaN
+2250787207717;169400019;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;15;10 700;NaN;NaN;NaN;PASS MIX;8;5 800;NaN;NaN;NaN
+2250749639206;169799576;Femme;Cote d¿Ivoire;Daloa;Digital Newcomer;PASS DATA;9;2 450;NaN;NaN;NaN;PASS MIX;9;2 050;NaN;NaN;NaN
+2250778628647;169462028;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;1 400;NaN;NaN;NaN
+2250747425330;169760998;Femme;Cote d¿Ivoire;Abidjan;Digital Hesitant;PASS DATA;10;3 000;NaN;NaN;NaN;PASS MIX;12;3 800;NaN;NaN;NaN
+2250758384178;169414377;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250758496819;169465059;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;3 000;NaN;NaN;NaN
+2250767495733;170109727;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;5;3 600;NaN;NaN;NaN;PASS MIX;21;10 100;NaN;NaN;NaN
+2250767075893;169460836;Homme;Cote d¿Ivoire;Bouake;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;2 000;NaN;NaN;NaN
+2250789618233;169877048;Homme;Cote d¿Ivoire;Man;Digital Newcomer;PASS DATA;4;800;NaN;NaN;NaN;PASS MIX;11;3 400;NaN;NaN;NaN
+2250748004921;169409838;Homme;Cote d¿Ivoire;Daloa;Rural Basic;PASS DATA;1;150;NaN;NaN;NaN;PASS MIX;3;1 150;NaN;NaN;NaN
+2250701826619;169555955;Homme;Cote d¿Ivoire;Daloa;Fun Seeker;PASS DATA;15;3 900;NaN;NaN;NaN;PASS MIX;11;2 700;NaN;NaN;NaN
+2250767374907;169532810;Femme;Cote d¿Ivoire;Abidjan;Digital Hesitant;PASS DATA;1;2 500;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749737529;169354612;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;2;600;NaN;NaN;NaN;PASS MIX;6;1 900;NaN;NaN;NaN
+2250759864895;169462578;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;5;3 800;PASS AGORA;4;1 400;PASS MIX;6;3 700;NaN;NaN;NaN
+2250709813823;169752046;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;200;PASS INTER;2;2 000
+2250788837954;169403333;Homme;Cote d¿Ivoire;Abengourou;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;11;9 800;NaN;NaN;NaN
+2250709209667;169757986;Femme;Cote d¿Ivoire;Daloa;Fun Seeker;PASS DATA;2;2 000;NaN;NaN;NaN;PASS MIX;2;6 000;NaN;NaN;NaN
+2250757378628;170069265;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;15;6 900;NaN;NaN;NaN;PASS MIX;9;4 500;NaN;NaN;NaN
+2250758890064;169809525;Femme;Cote d¿Ivoire;San pedro;Rural Basic;PASS DATA;17;10 100;NaN;NaN;NaN;PASS MIX;9;2 000;NaN;NaN;NaN
+2250777172561;170176620;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;8;7 300;NaN;NaN;NaN
+2250749454935;169405352;Femme;Cote d¿Ivoire;San pedro;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708806233;169465249;Homme;Cote d¿Ivoire;San pedro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749633121;169447171;Femme;Cote d¿Ivoire;Soubre;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748271204;169753153;Femme;Cote d¿Ivoire;Yamoussoukro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749831786;169457921;Homme;Cote d¿Ivoire;Abengourou;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250700956268;169460423;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709635693;169461823;Homme;Cote d¿Ivoire;Gagnoa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708150892;169464611;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708537967;169414374;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747753072;169542115;Femme;Cote d¿Ivoire;Bouake;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747476593;169800334;Homme;Cote d¿Ivoire;Man;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787549807;169414239;Homme;Cote d¿Ivoire;Yamoussoukro;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777938547;169541429;Homme;Cote d¿Ivoire;Bouake;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787676790;169789195;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250759471737;169759179;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787013242;169827978;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250757395065;169546510;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;12;10 300;NaN;NaN;NaN;PASS MIX;11;4 100;NaN;NaN;NaN
+2250707016322;169719544;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;20;8 900;NaN;NaN;NaN;PASS MIX;18;5 200;NaN;NaN;NaN
+2250701593219;169465056;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;5;1 200;NaN;NaN;NaN;PASS MIX;7;2 450;NaN;NaN;NaN
+2250700071556;170098335;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;5;3 700;NaN;NaN;NaN;PASS MIX;9;7 000;NaN;NaN;NaN
+2250708605573;169425640;Femme;Cote d¿Ivoire;Man;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;9;4 500;NaN;NaN;NaN
+2250799870600;169542033;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;16;12 000;NaN;NaN;NaN;PASS MIX;8;5 250;NaN;NaN;NaN
+2250707135112;169504609;Homme;Cote d¿Ivoire;Korhogo;Collective Engaged;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;4;1 400;NaN;NaN;NaN
+2250758828683;169334815;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;4;1 800;NaN;NaN;NaN
+2250787793549;169414375;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;4;2 700;NaN;NaN;NaN;PASS MIX;4;2 300;NaN;NaN;NaN
+2250700868238;169503082;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;4;1 700;NaN;NaN;NaN
+2250703403668;169359833;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Hesitant;PASS DATA;4;1 400;NaN;NaN;NaN;PASS MIX;5;1 600;NaN;NaN;NaN
+2250707272346;169726851;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;12;4 350;NaN;NaN;NaN
+2250787369627;169499919;Homme;Cote d¿Ivoire;Soubre;Digital Newcomer;PASS DATA;12;6 700;NaN;NaN;NaN;PASS MIX;9;4 300;NaN;NaN;NaN
+2250747806366;169477719;Homme;Cote d¿Ivoire;Daloa;Fun Seeker;PASS DATA;21;8 550;NaN;NaN;NaN;PASS MIX;11;3 200;NaN;NaN;NaN
+2250707653282;169804823;Femme;Cote d¿Ivoire;Korhogo;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;14;3 400;NaN;NaN;NaN
+2250759223970;169503622;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;6;2 000;NaN;NaN;NaN;NaN;NaN;NaN;PASS INTER;5;2 800
+2250707460772;169448216;Homme;Cote d¿Ivoire;Man;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;2 400;NaN;NaN;NaN
+2250788254379;170195969;Femme;Cote d¿Ivoire;Abidjan;Digital Hesitant;PASS DATA;4;1 200;NaN;NaN;NaN;PASS MIX;6;3 000;NaN;NaN;NaN
+2250749231788;169830523;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;8;4 500;NaN;NaN;NaN
+2250777590445;169358074;Homme;Cote d¿Ivoire;Yamoussoukro;Rural Basic;PASS DATA;4;1 600;NaN;NaN;NaN;PASS MIX;2;800;NaN;NaN;NaN
+2250759402173;169597304;Femme;Cote d¿Ivoire;Abengourou;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;1 300;NaN;NaN;NaN
+2250758568638;169418698;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;3 500;NaN;NaN;NaN
+2250701941439;169555975;Femme;Cote d¿Ivoire;Daloa;Young Aspirer;PASS DATA;21;10 600;NaN;NaN;NaN;PASS MIX;13;5 400;NaN;NaN;NaN
+2250778487492;169354412;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;7;1 800;NaN;NaN;NaN
+2250709689053;170109734;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;13;7 300;NaN;NaN;NaN;PASS MIX;2;6 000;NaN;NaN;NaN
+2250709246685;169450337;Homme;Cote d¿Ivoire;Daloa;Fun Seeker;PASS DATA;21;10 500;NaN;NaN;NaN;PASS MIX;8;4 000;NaN;NaN;NaN
+2250707538655;169573618;Homme;Cote d¿Ivoire;Abidjan;Digital Hesitant;PASS DATA;12;4 000;NaN;NaN;NaN;PASS MIX;7;2 200;NaN;NaN;NaN
+2250757346017;169391547;Homme;Cote d¿Ivoire;San pedro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;600;PASS INTER;1;300
+2250789872354;169358591;Femme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;11;2 400;NaN;NaN;NaN
+2250747261666;169500947;Femme;Cote d¿Ivoire;Daloa;Rural Basic;PASS DATA;2;500;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707354340;169426035;Homme;Cote d¿Ivoire;Divo;Digital Hesitant;PASS DATA;14;3 700;NaN;NaN;NaN;PASS MIX;1;150;NaN;NaN;NaN
+2250789503717;170195966;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;4;1 400;NaN;NaN;NaN;PASS MIX;1;150;NaN;NaN;NaN
+2250757165797;169804876;Homme;Cote d¿Ivoire;Korhogo;Collective Engaged;PASS DATA;2;600;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250747202281;169334934;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;400;NaN;NaN;NaN
+2250747349739;169825439;Homme;Cote d¿Ivoire;Bouake;Digital Hesitant;PASS DATA;2;600;NaN;NaN;NaN;PASS MIX;4;1 100;NaN;NaN;NaN
+2250709555949;169493864;Femme;Cote d¿Ivoire;Divo;Collective Engaged;PASS DATA;5;3 000;NaN;NaN;NaN;PASS MIX;8;2 400;NaN;NaN;NaN
+2250757157622;169837102;Femme;Cote d¿Ivoire;Korhogo;Young Aspirer;PASS DATA;2;1 000;NaN;NaN;NaN;PASS MIX;2;1 000;NaN;NaN;NaN
+2250747364087;169789194;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;900;NaN;NaN;NaN;PASS MIX;5;2 200;NaN;NaN;NaN
+2250708685560;169785078;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;400;NaN;NaN;NaN;PASS MIX;13;3 700;NaN;NaN;NaN
+2250703141623;169545944;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;14;3 700;NaN;NaN;NaN;PASS MIX;1;150;NaN;NaN;NaN
+2250758333185;169415111;Femme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;400;NaN;NaN;NaN
+2250748857089;169440198;Femme;Cote d¿Ivoire;Korhogo;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250757081858;169824311;Homme;Cote d¿Ivoire;Divo;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779046664;169496224;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250767688457;169368382;Homme;Cote d¿Ivoire;San pedro;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250769459979;169752049;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779581195;169362333;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749219597;169493276;Homme;Cote d¿Ivoire;Soubre;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250767751951;170209699;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787191568;169801050;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788612881;169763790;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787814166;169787922;Femme;Cote d¿Ivoire;Bouake;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748830486;169503617;Homme;Cote d¿Ivoire;Bouake;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250789487389;169409362;Homme;Cote d¿Ivoire;Abengourou;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787121959;169367428;Homme;Cote d¿Ivoire;San pedro;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250768466728;169446216;Femme;Cote d¿Ivoire;Man;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749440808;169420050;Homme;Cote d¿Ivoire;Bouake;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748695336;169358588;Homme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250700651307;169460564;Femme;Cote d¿Ivoire;Man;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749133612;169460670;Femme;Cote d¿Ivoire;Yamoussoukro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250758880044;169360575;Homme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777547568;169796499;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;3;1 200;NaN;NaN;NaN;PASS MIX;5;2 200;NaN;NaN;NaN
+2250778413875;169461622;Femme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;5;1 300;NaN;NaN;NaN;PASS MIX;4;850;NaN;NaN;NaN
+2250759785269;169804821;Homme;Cote d¿Ivoire;Korhogo;Collective Engaged;PASS DATA;11;4 400;NaN;NaN;NaN;PASS MIX;9;4 700;NaN;NaN;NaN
+2250749281081;169789191;Homme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;8;3 050;NaN;NaN;NaN
+2250788752190;169777030;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;5;2 500;NaN;NaN;NaN;PASS MIX;17;4 600;NaN;NaN;NaN
+2250707776320;169542117;Homme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;6;10 500;NaN;NaN;NaN;PASS MIX;8;7 300;NaN;NaN;NaN
+2250788328257;169756635;Homme;Cote d¿Ivoire;Abidjan;Young Aspirer;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;7;1 800;NaN;NaN;NaN
+2250779880263;169457773;Homme;Cote d¿Ivoire;Abengourou;Fun Seeker;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;8;4 500;NaN;NaN;NaN
+2250749424459;169415703;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;21;18 800;NaN;NaN;NaN;PASS MIX;4;12 000;NaN;NaN;NaN
+2250749033300;169759195;Homme;Cote d¿Ivoire;San pedro;Collective Engaged;PASS DATA;20;13 800;NaN;NaN;NaN;PASS MIX;7;3 800;PASS INTER;1;300
+2250709642068;169752509;Homme;Cote d¿Ivoire;Daloa;Digital Hesitant;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250788926299;169877047;Homme;Cote d¿Ivoire;Man;Digital Newcomer;PASS DATA;13;4 100;NaN;NaN;NaN;PASS MIX;6;2 800;NaN;NaN;NaN
+2250778397532;169542003;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;1 500;NaN;NaN;NaN;PASS MIX;5;2 200;NaN;NaN;NaN
+2250788776797;169754338;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;39;19 200;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250777887582;169462804;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250777146203;169473616;Homme;Cote d¿Ivoire;Gagnoa;Digital Hesitant;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;5;5 200;NaN;NaN;NaN
+2250778608481;169364879;Femme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;25;12 100;NaN;NaN;NaN;PASS MIX;19;5 000;NaN;NaN;NaN
+2250747108197;169573619;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;2;1 300;NaN;NaN;NaN;PASS MIX;5;3 800;NaN;NaN;NaN
+2250778661734;170109730;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;500;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250778680168;169402464;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;11;3 900;NaN;NaN;NaN
+2250767201134;169532811;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;3;600;NaN;NaN;NaN;PASS MIX;9;2 050;NaN;NaN;NaN
+2250779849594;169429559;Femme;Cote d¿Ivoire;Korhogo;Digital Hesitant;PASS DATA;3;900;NaN;NaN;NaN;PASS MIX;27;12 300;NaN;NaN;NaN
+2250798967678;169590881;Femme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;4;4 000;NaN;NaN;NaN
+2250758323072;169387641;Homme;Cote d¿Ivoire;Abengourou;Digital Hesitant;PASS DATA;20;8 300;NaN;NaN;NaN;PASS MIX;7;2 000;NaN;NaN;NaN
+2250707630985;169404657;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;4;1 400;NaN;NaN;NaN;PASS MIX;1;150;NaN;NaN;NaN
+2250748246933;169362334;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;9;1 800;PASS INTER;15;6 500
+2250758476696;169358077;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;3 000;NaN;NaN;NaN
+2250788365210;169540369;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;2;700;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709564321;169475634;Femme;Cote d¿Ivoire;Man;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250797431715;170173667;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;1 500;NaN;NaN;NaN
+2250779964329;169545915;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;19;5 400;NaN;NaN;NaN;PASS MIX;8;1 600;NaN;NaN;NaN
+2250704442288;169472778;Femme;Cote d¿Ivoire;San pedro;Digital Hesitant;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;26;8 000;NaN;NaN;NaN
+2250777127857;169799579;Homme;Cote d¿Ivoire;Daloa;Young Aspirer;PASS DATA;10;5 900;NaN;NaN;NaN;PASS MIX;3;2 000;NaN;NaN;NaN
+2250707993526;169483343;Femme;Cote d¿Ivoire;Divo;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;800;NaN;NaN;NaN
+2250777529283;169613321;Femme;Cote d¿Ivoire;Daloa;Digital Newcomer;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;10;4 200;NaN;NaN;NaN
+2250748472261;169754257;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;5 000;NaN;NaN;NaN
+2250777299911;170177642;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;20;13 800;NaN;NaN;NaN;PASS MIX;7;3 800;PASS INTER;1;300
+2250709593033;169551282;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;6;1 700;NaN;NaN;NaN
+2250787699658;169335848;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;5;2 500;NaN;NaN;NaN
+2250704466890;169360964;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250758087628;170195968;Femme;Cote d¿Ivoire;Abidjan;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250702554067;169554006;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250789112788;169353560;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787580886;169503314;Femme;Cote d¿Ivoire;Daloa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787584991;170013707;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250757966815;169802042;Homme;Cote d¿Ivoire;Gagnoa;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250759818211;169496223;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708153324;169464979;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748347375;169776978;Femme;Cote d¿Ivoire;Abengourou;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708986864;169941725;Femme;Cote d¿Ivoire;Korhogo;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709076981;169826401;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709566460;169785074;Femme;Cote d¿Ivoire;Abidjan;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779282430;169596961;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788295680;169605810;Femme;Cote d¿Ivoire;Daloa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707876869;169442273;Femme;Cote d¿Ivoire;Abidjan;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250758257673;170169101;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787861516;169359141;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709070860;170173663;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250778440719;169450740;Homme;Cote d¿Ivoire;Soubre;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749424655;169414179;Homme;Cote d¿Ivoire;Daloa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250789458961;170160872;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250759595026;169465307;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;38;24 000;NaN;NaN;NaN;PASS MIX;6;2 100;NaN;NaN;NaN
+2250759511060;169405353;Homme;Cote d¿Ivoire;San pedro;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;2 500;NaN;NaN;NaN
+2250798660629;169453472;Femme;Cote d¿Ivoire;Soubre;Digital Newcomer;PASS DATA;12;5 500;NaN;NaN;NaN;PASS MIX;12;3 300;NaN;NaN;NaN
+2250767459350;169460673;Femme;Cote d¿Ivoire;Yamoussoukro;Elite Tech;PASS DATA;5;1 200;NaN;NaN;NaN;PASS MIX;4;1 100;NaN;NaN;NaN
+2250757751833;169384301;Femme;Cote d¿Ivoire;Gagnoa;Rural Basic;PASS DATA;6;2 500;NaN;NaN;NaN;PASS MIX;5;1 700;NaN;NaN;NaN
+2250777058331;169796501;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;6;1 900;NaN;NaN;NaN;PASS MIX;4;1 600;NaN;NaN;NaN
+2250707145756;169354617;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;4;1 100;NaN;NaN;NaN;PASS MIX;11;6 300;NaN;NaN;NaN
+2250709482525;169483345;Homme;Cote d¿Ivoire;Divo;Digital Hesitant;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;3;4 500;NaN;NaN;NaN
+2250747931675;169425961;Femme;Cote d¿Ivoire;Divo;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;15;6 000;NaN;NaN;NaN
+2250767899678;169554007;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;4;1 200;NaN;NaN;NaN;PASS MIX;15;3 050;NaN;NaN;NaN
+2250709994525;169545932;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;19;6 500;NaN;NaN;NaN;PASS MIX;8;3 300;NaN;NaN;NaN
+2250708427815;169782876;Homme;Cote d¿Ivoire;Gagnoa;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;600;NaN;NaN;NaN
+2250707184686;169409839;Femme;Cote d¿Ivoire;Daloa;Fun Seeker;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;10;5 900;NaN;NaN;NaN
+2250749400111;169541428;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;6;2 400;NaN;NaN;NaN;PASS MIX;5;3 400;NaN;NaN;NaN
+2250709648432;169767261;Femme;Cote d¿Ivoire;San pedro;Digital Hesitant;PASS DATA;1;500;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788482094;169530471;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;7;3 000;NaN;NaN;NaN;PASS MIX;6;2 000;NaN;NaN;NaN
+2250768464947;169493869;Femme;Cote d¿Ivoire;Divo;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;1 000;NaN;NaN;NaN
+2250758110263;169464973;Homme;Cote d¿Ivoire;Abidjan;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;1 650;NaN;NaN;NaN
+2250779735100;169469883;Femme;Cote d¿Ivoire;Soubre;Collective Engaged;PASS DATA;4;1 500;NaN;NaN;NaN;PASS MIX;5;2 000;NaN;NaN;NaN
+2250779649086;170141822;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;3;3 000;NaN;NaN;NaN
+2250758689855;169464977;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;2;1 000;NaN;NaN;NaN;PASS MIX;1;1 000;NaN;NaN;NaN
+2250757233728;169359832;Femme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;PASS DATA;14;10 500;NaN;NaN;NaN;PASS MIX;8;7 000;NaN;NaN;NaN
+2250787030080;169493275;Homme;Cote d¿Ivoire;Soubre;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;2 300;NaN;NaN;NaN
+2250702234693;170101583;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;5;1 700;NaN;NaN;NaN;PASS MIX;15;4 600;NaN;NaN;NaN
+2250704344140;169804877;Homme;Cote d¿Ivoire;Korhogo;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;3 000;NaN;NaN;NaN
+2250768174158;169798809;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Hesitant;PASS DATA;8;2 300;NaN;NaN;NaN;PASS MIX;15;3 350;NaN;NaN;NaN
+2250701116496;169419024;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;20;8 900;NaN;NaN;NaN;PASS MIX;18;5 200;NaN;NaN;NaN
+2250749953108;169362335;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;9;3 450;NaN;NaN;NaN;PASS MIX;7;1 750;NaN;NaN;NaN
+2250707866711;169503714;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;3;3 000;NaN;NaN;NaN;PASS MIX;6;8 000;NaN;NaN;NaN
+2250758947928;169365041;Femme;Cote d¿Ivoire;Abengourou;Young Aspirer;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;3;800;NaN;NaN;NaN
+2250709222494;170173767;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;500;NaN;NaN;NaN;PASS MIX;19;5 600;NaN;NaN;NaN
+2250709808225;169573710;Homme;Cote d¿Ivoire;Bouake;Fun Seeker;PASS DATA;4;1 700;NaN;NaN;NaN;PASS MIX;5;1 250;NaN;NaN;NaN
+2250778485857;169802735;Femme;Cote d¿Ivoire;Daloa;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;1 650;NaN;NaN;NaN
+2250768983142;169785077;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;3 000;NaN;NaN;NaN
+2250748349547;169541040;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;9;4 100;PASS AGORA;2;360;PASS MIX;13;6 300;NaN;NaN;NaN
+2250758847599;169418935;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;3 300;NaN;NaN;NaN
+2250749099123;169754167;Femme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250757727351;170161302;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;8;1 900;NaN;NaN;NaN
+2250707190910;169442277;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;11;3 000;NaN;NaN;NaN;PASS MIX;6;3 000;NaN;NaN;NaN
+2250708894847;169416317;Homme;Cote d¿Ivoire;Man;Fun Seeker;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;4;1 400;NaN;NaN;NaN
+2250769953925;169493863;Homme;Cote d¿Ivoire;Divo;Digital Hesitant;PASS DATA;1;500;PASS AGORA;2;300;PASS MIX;11;8 000;NaN;NaN;NaN
+2250709345413;169802729;Femme;Cote d¿Ivoire;Daloa;Collective Engaged;PASS DATA;2;400;NaN;NaN;NaN;PASS MIX;9;4 000;NaN;NaN;NaN
+2250777306247;169541041;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;7;8 000;NaN;NaN;NaN;PASS MIX;3;5 000;NaN;NaN;NaN
+2250789606536;169802015;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;8;2 500;NaN;NaN;NaN
+2250709742729;169826403;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;2 500;NaN;NaN;NaN
+2250778141832;169761391;Femme;Cote d¿Ivoire;San pedro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250779028613;169413512;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250707844234;169465310;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;9;15 100;NaN;NaN;NaN
+2250798064774;169470175;Femme;Cote d¿Ivoire;Soubre;Digital Hesitant;PASS DATA;25;12 100;NaN;NaN;NaN;PASS MIX;19;5 000;NaN;NaN;NaN
+2250758421646;169554008;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;9;8 500;NaN;NaN;NaN;PASS MIX;4;4 000;NaN;NaN;NaN
+2250799264911;169413606;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250788383889;169460832;Homme;Cote d¿Ivoire;Bouake;Elite Tech;PASS DATA;23;6 100;NaN;NaN;NaN;PASS MIX;17;5 100;NaN;NaN;NaN
+2250779192467;169463381;Homme;Cote d¿Ivoire;Daloa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;10;2 000;NaN;NaN;NaN
+2250758374549;170164270;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779739297;169625810;Femme;Cote d¿Ivoire;Abengourou;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747440291;169460333;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250769218724;169399219;Homme;Cote d¿Ivoire;Man;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250757072045;169461621;Femme;Cote d¿Ivoire;Abidjan;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250769204397;169467948;Femme;Cote d¿Ivoire;Daloa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749271228;170187484;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250767830207;169442171;Homme;Cote d¿Ivoire;Man;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250703281349;169463529;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;7;5 500;NaN;NaN;NaN;PASS MIX;2;800;NaN;NaN;NaN
+2250759978183;169767257;Homme;Cote d¿Ivoire;San pedro;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;13;2 700;NaN;NaN;NaN
+2250748841160;169363842;Femme;Cote d¿Ivoire;San pedro;Collective Engaged;PASS DATA;15;5 400;NaN;NaN;NaN;PASS MIX;2;700;NaN;NaN;NaN
+2250758331600;169754258;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;6 000;NaN;NaN;NaN
+2250787871954;169540362;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;23;6 100;NaN;NaN;NaN;PASS MIX;17;5 100;NaN;NaN;NaN
+2250703017176;170145209;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;2;3 500;NaN;NaN;NaN
+2250787878104;169630200;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;19;15 400;NaN;NaN;NaN;PASS MIX;2;400;PASS INTER;1;500
+2250787730654;169419132;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;8;4 000;NaN;NaN;NaN;PASS MIX;9;4 500;NaN;NaN;NaN
+2250788783327;169358931;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;1 550;NaN;NaN;NaN
+2250757072095;169754341;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;6;1 700;NaN;NaN;NaN;PASS MIX;9;5 500;NaN;NaN;NaN
+2250777711842;169470176;Femme;Cote d¿Ivoire;San pedro;Digital Hesitant;PASS DATA;3;1 200;NaN;NaN;NaN;PASS MIX;5;2 200;NaN;NaN;NaN
+2250749674723;169830520;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;1;200;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777175273;169532875;Femme;Cote d¿Ivoire;Gagnoa;Collective Engaged;PASS DATA;5;1 300;NaN;NaN;NaN;PASS MIX;4;850;NaN;NaN;NaN
+2250702392556;169778971;Femme;Cote d¿Ivoire;Gagnoa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250709433585;169763787;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;4;1 650;NaN;NaN;NaN
+2250777584885;169554342;Homme;Cote d¿Ivoire;Divo;Collective Engaged;PASS DATA;38;18 400;PASS AGORA;2;60;PASS MIX;5;1 000;NaN;NaN;NaN
+2250707709173;169342373;Femme;Cote d¿Ivoire;Gagnoa;Digital Newcomer;PASS DATA;23;8 300;NaN;NaN;NaN;PASS MIX;25;7 600;NaN;NaN;NaN
+2250757375225;169383233;Homme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;6;1 900;NaN;NaN;NaN;PASS MIX;24;6 700;NaN;NaN;NaN
+2250788322554;170013709;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;2;1 000;NaN;NaN;NaN;PASS MIX;1;1 000;NaN;NaN;NaN
+2250749924605;169417444;Femme;Cote d¿Ivoire;San pedro;Collective Engaged;PASS DATA;7;8 000;NaN;NaN;NaN;PASS MIX;3;5 000;NaN;NaN;NaN
+2250704409855;169765619;Homme;Cote d¿Ivoire;Abengourou;Elite Tech;PASS DATA;2;600;NaN;NaN;NaN;PASS MIX;8;1 800;NaN;NaN;NaN
+2250779172097;169409812;Femme;Cote d¿Ivoire;Gagnoa;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;8;1 900;NaN;NaN;NaN
+2250708860166;169826402;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;5;1 700;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250700662027;169349423;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;6;1 300;NaN;NaN;NaN
+2250789573900;169803191;Femme;Cote d¿Ivoire;Korhogo;Collective Engaged;PASS DATA;9;4 400;NaN;NaN;NaN;PASS MIX;6;5 000;NaN;NaN;NaN
+2250798497037;169551280;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;4;1 800;NaN;NaN;NaN;PASS MIX;6;2 300;NaN;NaN;NaN
+2250779634958;169796498;Femme;Cote d¿Ivoire;Bouake;Digital Hesitant;PASS DATA;23;10 400;NaN;NaN;NaN;PASS MIX;6;1 500;NaN;NaN;NaN
+2250758137102;169364944;Homme;Cote d¿Ivoire;Gagnoa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;2 800;NaN;NaN;NaN
+2250708548880;169362338;Homme;Cote d¿Ivoire;Abidjan;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250769802516;169470402;Homme;Cote d¿Ivoire;Soubre;Digital Hesitant;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;3;650;NaN;NaN;NaN
+2250700256533;169551284;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;11;4 500;PASS AGORA;3;360;PASS MIX;11;3 600;NaN;NaN;NaN
+2250707203350;170015989;Homme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;2;1 500;NaN;NaN;NaN;PASS MIX;5;2 200;NaN;NaN;NaN
+2250748732695;170101584;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250747106583;169546511;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;6;1 200;NaN;NaN;NaN;PASS MIX;7;2 000;NaN;NaN;NaN
+2250787288345;169540364;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;6;2 500;NaN;NaN;NaN
+2250707635485;169411108;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250707582238;169711498;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;500;PASS AGORA;2;300;PASS MIX;11;8 000;NaN;NaN;NaN
+2250748831005;169802848;Homme;Cote d¿Ivoire;San pedro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;600;NaN;NaN;NaN
+2250709816610;169754336;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;3 500;NaN;NaN;NaN
+2250748683559;169336832;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;2 200;NaN;NaN;NaN
+2250788468019;169474364;Femme;Cote d¿Ivoire;Soubre;Digital Hesitant;PASS DATA;4;3 500;NaN;NaN;NaN;PASS MIX;4;2 000;NaN;NaN;NaN
+2250778748218;169483341;Femme;Cote d¿Ivoire;Divo;Collective Engaged;NaN;NaN;NaN;PASS AGORA;2;200;PASS MIX;8;3 600;NaN;NaN;NaN
+2250778731836;169362337;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;2 000;NaN;NaN;NaN
+2250747772220;169760153;Femme;Cote d¿Ivoire;Korhogo;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;800;NaN;NaN;NaN
+2250758688061;169503618;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;6;4 500;NaN;NaN;NaN;PASS MIX;10;2 200;NaN;NaN;NaN
+2250789066049;169500946;Homme;Cote d¿Ivoire;Daloa;Digital Hesitant;PASS DATA;2;700;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250748134722;169826399;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;800;NaN;NaN;NaN
+2250757995841;169807971;Homme;Cote d¿Ivoire;Daloa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788040006;169485969;Femme;Cote d¿Ivoire;Soubre;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708882761;170048125;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747198796;169803731;Femme;Cote d¿Ivoire;Man;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748280143;169460425;Homme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788453712;170166102;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708092239;169737086;Homme;Cote d¿Ivoire;Yamoussoukro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748329298;169469189;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747610451;169359144;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707895636;169453593;Homme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250701337945;169796547;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250759519581;169404656;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250757668191;169358073;Femme;Cote d¿Ivoire;Yamoussoukro;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250767371616;169460838;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749248867;169384300;Femme;Cote d¿Ivoire;Gagnoa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749564264;169420463;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250759972201;169629751;Femme;Cote d¿Ivoire;Yamoussoukro;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250702781802;169503076;Femme;Cote d¿Ivoire;Divo;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747278699;169485397;Homme;Cote d¿Ivoire;Abengourou;Collective Engaged;PASS DATA;12;10 300;NaN;NaN;NaN;PASS MIX;11;4 100;NaN;NaN;NaN
+2250748622184;169465252;Homme;Cote d¿Ivoire;San pedro;Rural Basic;PASS DATA;22;10 600;NaN;NaN;NaN;PASS MIX;7;2 800;NaN;NaN;NaN
+2250789268853;169335117;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;4;4 000;NaN;NaN;NaN;PASS MIX;8;4 000;NaN;NaN;NaN
+2250749289847;169464975;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;22;6 150;NaN;NaN;NaN
+2250779870588;169538433;Homme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;PASS DATA;10;8 800;NaN;NaN;NaN;PASS MIX;8;6 000;NaN;NaN;NaN
+2250789127550;169468854;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;1 000;NaN;NaN;NaN
+2250708360577;169364883;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;2;700;NaN;NaN;NaN
+2250779893122;169545931;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;5;3 500;NaN;NaN;NaN;PASS MIX;11;6 300;NaN;NaN;NaN
+2250767494538;169545914;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;13;7 300;NaN;NaN;NaN;PASS MIX;2;6 000;NaN;NaN;NaN
+2250707504536;169823688;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;7;3 000;NaN;NaN;NaN
+2250777179546;169411109;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;4;800;NaN;NaN;NaN;PASS MIX;11;3 400;NaN;NaN;NaN
+2250757531036;169801047;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;5;2 300;NaN;NaN;NaN
+2250758464925;169834638;Femme;Cote d¿Ivoire;Daloa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;850;NaN;NaN;NaN
+2250708817310;170177640;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;2;700;NaN;NaN;NaN
+2250707303842;169540360;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;3;1 200;NaN;NaN;NaN;PASS MIX;14;6 200;NaN;NaN;NaN
+2250702253480;169542030;Homme;Cote d¿Ivoire;Abidjan;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;1 700;NaN;NaN;NaN
+2250778543530;169418697;Femme;Cote d¿Ivoire;Bouake;Digital Hesitant;PASS DATA;4;1 200;NaN;NaN;NaN;PASS MIX;15;3 050;NaN;NaN;NaN
+2250768061867;170101620;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;3;7 500;NaN;NaN;NaN;PASS MIX;1;5 000;PASS INTER;1;2 000
+2250787249578;169650790;Femme;Cote d¿Ivoire;Korhogo;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;300;PASS INTER;2;800
+2250768840115;169803930;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;1 000;NaN;NaN;NaN;PASS MIX;2;1 000;NaN;NaN;NaN
+2250757473715;169629750;Femme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;4;1 650;NaN;NaN;NaN
+2250788412853;169413603;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;1 800;NaN;NaN;NaN
+2250779985334;170100461;Femme;Cote d¿Ivoire;Abidjan;Digital Hesitant;PASS DATA;6;1 900;NaN;NaN;NaN;PASS MIX;5;1 900;NaN;NaN;NaN
+2250708180404;169480419;Homme;Cote d¿Ivoire;Abidjan;Young Aspirer;PASS DATA;5;2 000;PASS AGORA;2;260;PASS MIX;1;200;NaN;NaN;NaN
+2250797563322;169750957;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;5;16 500;NaN;NaN;NaN;PASS MIX;2;6 000;NaN;NaN;NaN
+2250747160003;169801084;Homme;Cote d¿Ivoire;Daloa;Digital Newcomer;PASS DATA;2;600;NaN;NaN;NaN;PASS MIX;9;5 800;NaN;NaN;NaN
+2250708800963;169497377;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;10;5 800;NaN;NaN;NaN
+2250707613125;169445833;Femme;Cote d¿Ivoire;Korhogo;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;1 300;NaN;NaN;NaN
+2250709470661;170100462;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;425;NaN;NaN;NaN;PASS MIX;8;3 450;NaN;NaN;NaN
+2250749201868;169803093;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;2 500;NaN;NaN;NaN
+2250757012945;169358932;Femme;Cote d¿Ivoire;Yamoussoukro;Fun Seeker;PASS DATA;10;3 700;NaN;NaN;NaN;PASS MIX;10;3 400;NaN;NaN;NaN
+2250748319187;169555020;Homme;Cote d¿Ivoire;Daloa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;9;1 800;PASS INTER;15;6 500
+2250787392982;169590883;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;3;1 600;NaN;NaN;NaN;PASS MIX;3;1 000;NaN;NaN;NaN
+2250708497879;169801081;Homme;Cote d¿Ivoire;Daloa;Collective Engaged;PASS DATA;2;600;NaN;NaN;NaN;PASS MIX;6;1 900;NaN;NaN;NaN
+2250708854231;169759974;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;4;1 650;NaN;NaN;NaN
+2250757895641;169540366;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;2;700;NaN;NaN;NaN;PASS MIX;5;1 800;NaN;NaN;NaN
+2250767797727;169801046;Homme;Cote d¿Ivoire;Bouake;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250708430305;169354615;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;11;5 500;NaN;NaN;NaN
+2250759118306;169719543;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;1 000;NaN;NaN;NaN;PASS MIX;2;1 000;NaN;NaN;NaN
+2250700840423;169726850;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;3;4 000;NaN;NaN;NaN;NaN;NaN;NaN;PASS INTER;1;500
+2250748665321;169474363;Femme;Cote d¿Ivoire;Soubre;Fun Seeker;PASS DATA;3;2 300;NaN;NaN;NaN;PASS MIX;1;3 000;NaN;NaN;NaN
+2250758430186;169461824;Femme;Cote d¿Ivoire;Gagnoa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;5 000;NaN;NaN;NaN
+2250757998061;169477716;Femme;Cote d¿Ivoire;Daloa;Young Aspirer;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;14;6 800;NaN;NaN;NaN
+2250778338801;169777214;Homme;Cote d¿Ivoire;Abengourou;Fun Seeker;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;13;2 700;NaN;NaN;NaN
+2250759775730;170170530;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;10;8 800;NaN;NaN;NaN;PASS MIX;8;6 000;NaN;NaN;NaN
+2250789162495;169802733;Homme;Cote d¿Ivoire;Daloa;Digital Hesitant;PASS DATA;4;3 200;NaN;NaN;NaN;PASS MIX;4;6 000;NaN;NaN;NaN
+2250789199359;169542197;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;1;1 000;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250758733314;169409364;Homme;Cote d¿Ivoire;Abengourou;Collective Engaged;PASS DATA;1;200;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708729348;169511938;Femme;Cote d¿Ivoire;Abengourou;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;8;1 650;NaN;NaN;NaN
+2250779850245;169444574;Femme;Cote d¿Ivoire;Korhogo;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;450;NaN;NaN;NaN
+2250789623302;169852381;Femme;Cote d¿Ivoire;Abidjan;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747655687;169554434;Femme;Cote d¿Ivoire;Daloa;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250759159301;169468279;Femme;Cote d¿Ivoire;Korhogo;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250758755858;169555019;Homme;Cote d¿Ivoire;Daloa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707269144;169754342;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788793887;169413601;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779924000;169792040;Homme;Cote d¿Ivoire;Abengourou;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777310754;169465067;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709079589;169787921;Homme;Cote d¿Ivoire;Bouake;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707197478;169345940;Homme;Cote d¿Ivoire;Abidjan;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749193770;169493507;Homme;Cote d¿Ivoire;Soubre;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779979310;169345942;Homme;Cote d¿Ivoire;Abidjan;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747606575;169354411;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;900;NaN;NaN;NaN;PASS MIX;4;1 400;NaN;NaN;NaN
+2250757826096;169465063;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;7 500;NaN;NaN;NaN;PASS MIX;1;5 000;PASS INTER;1;2 000
+2250767156782;169808216;Femme;Cote d¿Ivoire;Gagnoa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;700;NaN;NaN;NaN
+2250709595696;169822958;Homme;Cote d¿Ivoire;Daloa;Elite Tech;PASS DATA;11;4 800;NaN;NaN;NaN;PASS MIX;9;4 900;NaN;NaN;NaN
+2250777130550;169756292;Homme;Cote d¿Ivoire;Gagnoa;Collective Engaged;PASS DATA;9;8 500;NaN;NaN;NaN;PASS MIX;4;4 000;NaN;NaN;NaN
+2250787466807;169523568;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;3;1 300;NaN;NaN;NaN;PASS MIX;8;1 800;NaN;NaN;NaN
+2250759136833;169496226;Femme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;6;1 700;NaN;NaN;NaN
+2250798730820;169551283;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;5;2 500;NaN;NaN;NaN;PASS MIX;17;4 600;NaN;NaN;NaN
+2250709847624;169809527;Homme;Cote d¿Ivoire;San pedro;Collective Engaged;PASS DATA;18;8 300;NaN;NaN;NaN;PASS MIX;6;1 400;NaN;NaN;NaN
+2250757848652;169469882;Homme;Cote d¿Ivoire;Soubre;Fun Seeker;PASS DATA;3;600;NaN;NaN;NaN;PASS MIX;2;400;NaN;NaN;NaN
+2250778852950;169407390;Homme;Cote d¿Ivoire;San pedro;Collective Engaged;PASS DATA;8;3 500;NaN;NaN;NaN;PASS MIX;5;2 500;NaN;NaN;NaN
+2250788890202;169415668;Homme;Cote d¿Ivoire;Bouake;Young Aspirer;PASS DATA;28;23 000;NaN;NaN;NaN;PASS MIX;1;3 000;NaN;NaN;NaN
+2250708952670;169796910;Femme;Cote d¿Ivoire;Man;Collective Engaged;PASS DATA;14;7 500;NaN;NaN;NaN;PASS MIX;16;7 800;NaN;NaN;NaN
+2250789426782;169503081;Femme;Cote d¿Ivoire;Bouake;Fun Seeker;PASS DATA;2;600;NaN;NaN;NaN;PASS MIX;9;5 800;NaN;NaN;NaN
+2250767640161;169545913;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;4;4 000;NaN;NaN;NaN;PASS MIX;8;4 000;NaN;NaN;NaN
+2250777847399;169797491;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;16;11 800;NaN;NaN;NaN;PASS MIX;1;3 000;NaN;NaN;NaN
+2250747698792;169375838;Femme;Cote d¿Ivoire;Abengourou;Collective Engaged;PASS DATA;18;22 300;NaN;NaN;NaN;PASS MIX;7;2 900;NaN;NaN;NaN
+2250788087402;169801082;Homme;Cote d¿Ivoire;Daloa;Collective Engaged;PASS DATA;19;11 100;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788025965;169429671;Femme;Cote d¿Ivoire;Daloa;Elite Tech;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;2;3 300;NaN;NaN;NaN
+2250757045872;169418004;Homme;Cote d¿Ivoire;Bouake;Digital Hesitant;PASS DATA;5;1 300;NaN;NaN;NaN;PASS MIX;10;9 100;NaN;NaN;NaN
+2250778179189;170109733;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;13;2 300;NaN;NaN;NaN;PASS MIX;6;950;NaN;NaN;NaN
+2250767486584;169797493;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;7;5 500;NaN;NaN;NaN;PASS MIX;2;800;NaN;NaN;NaN
+2250748507773;169414376;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;20;6 700;NaN;NaN;NaN;PASS MIX;14;4 200;NaN;NaN;NaN
+2250748169854;169777028;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;23;10 400;NaN;NaN;NaN;PASS MIX;6;1 500;NaN;NaN;NaN
+2250708842110;169464974;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;7;1 850;NaN;NaN;NaN
+2250759216769;169608865;Homme;Cote d¿Ivoire;Korhogo;Digital Hesitant;PASS DATA;12;5 700;NaN;NaN;NaN;PASS MIX;6;2 700;NaN;NaN;NaN
+2250748470915;169480422;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;5;1 500;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250758270596;169540368;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;14;10 500;NaN;NaN;NaN;PASS MIX;8;7 000;NaN;NaN;NaN
+2250757412490;169802734;Femme;Cote d¿Ivoire;Daloa;Young Aspirer;PASS DATA;9;4 100;PASS AGORA;2;360;PASS MIX;13;6 300;NaN;NaN;NaN
+2250748286604;170160870;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;PASS DATA;2;700;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250779336339;169413514;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;27;11 800;PASS AGORA;2;240;PASS MIX;8;2 000;NaN;NaN;NaN
+2250777917077;169439490;Femme;Cote d¿Ivoire;San pedro;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;1 300;NaN;NaN;NaN
+2250777120405;170050135;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;11;4 500;PASS AGORA;3;360;PASS MIX;11;3 600;NaN;NaN;NaN
+2250708321949;169523570;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;1 000;NaN;NaN;NaN;PASS MIX;6;2 700;NaN;NaN;NaN
+2250748403362;169800333;Femme;Cote d¿Ivoire;Man;Collective Engaged;PASS DATA;2;1 500;NaN;NaN;NaN;PASS MIX;4;2 000;NaN;NaN;NaN
+2250701604515;169455732;Femme;Cote d¿Ivoire;Man;Fun Seeker;PASS DATA;8;5 000;NaN;NaN;NaN;PASS MIX;6;2 800;NaN;NaN;NaN
+2250709751464;169499920;Femme;Cote d¿Ivoire;Soubre;Digital Hesitant;PASS DATA;1;2 500;NaN;NaN;NaN;PASS MIX;5;8 200;NaN;NaN;NaN
+2250709720746;169461620;Femme;Cote d¿Ivoire;Abidjan;Digital Hesitant;PASS DATA;6;4 500;NaN;NaN;NaN;PASS MIX;10;2 200;NaN;NaN;NaN
+2250708903595;169789196;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;2;1 000;NaN;NaN;NaN;PASS MIX;7;3 500;NaN;NaN;NaN
+2250708383407;169383235;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;28;23 000;NaN;NaN;NaN;PASS MIX;1;3 000;NaN;NaN;NaN
+2250768649910;169796546;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250708496055;169414373;Femme;Cote d¿Ivoire;Abidjan;Rural Basic;PASS DATA;3;650;NaN;NaN;NaN;PASS MIX;8;1 500;NaN;NaN;NaN
+2250788783800;169503075;Homme;Cote d¿Ivoire;Divo;Digital Hesitant;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250709806776;169477738;Femme;Cote d¿Ivoire;Daloa;Digital Hesitant;PASS DATA;2;2 000;NaN;NaN;NaN;PASS MIX;6;2 800;NaN;NaN;NaN
+2250702319289;169411599;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;1 400;NaN;NaN;NaN
+2250707402430;169545950;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;800;NaN;NaN;NaN
+2250759216840;169413513;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;3;650;NaN;NaN;NaN
+2250797442761;169540372;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;5;1 500;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250749421259;169545912;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250787808973;169465308;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777026259;169815930;Homme;Cote d¿Ivoire;Man;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708582101;169527829;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250778441435;169497375;Homme;Cote d¿Ivoire;Bouake;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788230877;169613322;Femme;Cote d¿Ivoire;Daloa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250704443102;169460834;Homme;Cote d¿Ivoire;Bouake;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707967714;169404663;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709786344;169503718;Femme;Cote d¿Ivoire;Bouake;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788044520;169480423;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250703714028;169761003;Femme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250797494002;169603516;Femme;Cote d¿Ivoire;Daloa;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779942644;169361568;Homme;Cote d¿Ivoire;Korhogo;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709229301;169754339;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707584757;169511939;Femme;Cote d¿Ivoire;Abengourou;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250779281144;169363844;Femme;Cote d¿Ivoire;San pedro;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748606207;169415109;Homme;Cote d¿Ivoire;Yamoussoukro;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747145989;169467945;Femme;Cote d¿Ivoire;Daloa;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250798073610;169545936;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250788792074;169444573;Homme;Cote d¿Ivoire;Korhogo;Collective Engaged;PASS DATA;3;900;NaN;NaN;NaN;PASS MIX;12;5 100;NaN;NaN;NaN
+2250759169806;169777031;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;4;4 000;NaN;NaN;NaN
+2250767124241;169761392;Femme;Cote d¿Ivoire;San pedro;Collective Engaged;PASS DATA;15;10 700;NaN;NaN;NaN;PASS MIX;8;5 800;NaN;NaN;NaN
+2250709376789;169451449;Homme;Cote d¿Ivoire;Abidjan;Young Aspirer;PASS DATA;17;8 400;NaN;NaN;NaN;PASS MIX;14;2 950;NaN;NaN;NaN
+2250701451036;169464981;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;10;2 300;NaN;NaN;NaN
+2250708776734;169759180;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;12;4 000;NaN;NaN;NaN
+2250708664099;169789193;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;16;12 000;NaN;NaN;NaN;PASS MIX;8;5 250;NaN;NaN;NaN
+2250758330150;169464511;Homme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;9;3 100;NaN;NaN;NaN
+2250769962791;169399935;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;200;PASS INTER;2;2 000
+2250757723944;169852383;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;2;800;NaN;NaN;NaN;PASS MIX;1;500;NaN;NaN;NaN
+2250707035946;170160871;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;2;800;NaN;NaN;NaN
+2250787501867;169812463;Homme;Cote d¿Ivoire;Abidjan;Digital Hesitant;PASS DATA;3;600;NaN;NaN;NaN;PASS MIX;16;7 050;NaN;NaN;NaN
+2250747838250;169414337;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;PASS DATA;20;6 700;NaN;NaN;NaN;PASS MIX;14;4 200;NaN;NaN;NaN
+2250778570543;169505679;Homme;Cote d¿Ivoire;Korhogo;Digital Newcomer;PASS DATA;17;8 400;NaN;NaN;NaN;PASS MIX;14;2 950;NaN;NaN;NaN
+2250778238770;169603515;Femme;Cote d¿Ivoire;Daloa;Collective Engaged;PASS DATA;5;5 000;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250779998009;169596958;Femme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;7;4 300;NaN;NaN;NaN;PASS MIX;9;9 700;NaN;NaN;NaN
+2250707255099;169460833;Femme;Cote d¿Ivoire;Bouake;Fun Seeker;PASS DATA;30;12 850;NaN;NaN;NaN;PASS MIX;3;850;NaN;NaN;NaN
+2250708932411;169754164;Femme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;PASS DATA;3;4 000;NaN;NaN;NaN;NaN;NaN;NaN;PASS INTER;1;500
+2250703961916;169389956;Femme;Cote d¿Ivoire;Man;Fun Seeker;PASS DATA;8;3 000;NaN;NaN;NaN;PASS MIX;3;1 000;NaN;NaN;NaN
+2250707666749;169787919;Homme;Cote d¿Ivoire;Bouake;Fun Seeker;PASS DATA;1;500;NaN;NaN;NaN;PASS MIX;11;2 200;NaN;NaN;NaN
+2250798778174;169493862;Homme;Cote d¿Ivoire;Divo;Digital Hesitant;PASS DATA;15;5 800;NaN;NaN;NaN;PASS MIX;4;1 300;NaN;NaN;NaN
+2250703628096;169613326;Homme;Cote d¿Ivoire;Daloa;Digital Hesitant;PASS DATA;23;8 600;NaN;NaN;NaN;PASS MIX;9;2 800;NaN;NaN;NaN
+2250788837181;169415669;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;1 300;NaN;NaN;NaN;PASS MIX;8;1 800;NaN;NaN;NaN
+2250768836421;169503621;Femme;Cote d¿Ivoire;Bouake;Digital Newcomer;PASS DATA;6;1 900;NaN;NaN;NaN;PASS MIX;24;6 700;NaN;NaN;NaN
+2250789863239;169541036;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;8;5 000;NaN;NaN;NaN;PASS MIX;6;2 800;NaN;NaN;NaN
+2250787233609;169613325;Homme;Cote d¿Ivoire;Daloa;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;5;2 300;NaN;NaN;NaN
+2250747205454;169777032;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;3;900;NaN;NaN;NaN;PASS MIX;15;9 150;NaN;NaN;NaN
+2250768916305;169493859;Homme;Cote d¿Ivoire;Divo;Fun Seeker;PASS DATA;2;2 000;NaN;NaN;NaN;PASS MIX;1;300;NaN;NaN;NaN
+2250789142354;169807967;Homme;Cote d¿Ivoire;Daloa;Collective Engaged;PASS DATA;30;12 850;NaN;NaN;NaN;PASS MIX;3;850;NaN;NaN;NaN
+2250759423828;169833215;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;1;200;NaN;NaN;NaN
+2250779727702;169540371;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;8;7 300;NaN;NaN;NaN
+2250757773148;169763786;Homme;Cote d¿Ivoire;Yamoussoukro;Collective Engaged;PASS DATA;3;1 400;NaN;NaN;NaN;PASS MIX;10;4 500;NaN;NaN;NaN
+2250767490913;169540363;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;2 500;NaN;NaN;NaN
+2250707257185;169753155;Homme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;9;5 300;NaN;NaN;NaN
+2250708709219;169605812;Homme;Cote d¿Ivoire;Daloa;Digital Newcomer;PASS DATA;8;3 500;NaN;NaN;NaN;PASS MIX;19;7 400;NaN;NaN;NaN
+2250708232040;169404661;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;21;10 500;NaN;NaN;NaN;PASS MIX;8;4 000;NaN;NaN;NaN
+2250709626728;169419028;Homme;Cote d¿Ivoire;Abidjan;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;1;150;NaN;NaN;NaN
+2250708279147;169799689;Homme;Cote d¿Ivoire;Bouake;Young Aspirer;PASS DATA;7;3 000;NaN;NaN;NaN;PASS MIX;6;2 000;NaN;NaN;NaN
+2250758610795;169554010;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;PASS DATA;4;1 100;NaN;NaN;NaN;PASS MIX;2;1 000;NaN;NaN;NaN
+2250759620464;169419500;Homme;Cote d¿Ivoire;San pedro;Collective Engaged;PASS DATA;3;1 500;NaN;NaN;NaN;PASS MIX;5;5 800;NaN;NaN;NaN
+2250709333875;169551285;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;600;NaN;NaN;NaN;PASS MIX;5;1 600;NaN;NaN;NaN
+2250777956211;169797489;Homme;Cote d¿Ivoire;Abidjan;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;4;900;NaN;NaN;NaN
+2250777548668;169808218;Femme;Cote d¿Ivoire;Gagnoa;Rural Basic;PASS DATA;5;2 000;PASS AGORA;2;260;PASS MIX;1;200;NaN;NaN;NaN
+2250758104960;169443230;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;PASS DATA;1;300;NaN;NaN;NaN;PASS MIX;10;4 200;NaN;NaN;NaN
+2250708944780;169779939;Femme;Cote d¿Ivoire;San pedro;Rural Basic;PASS DATA;1;150;NaN;NaN;NaN;PASS MIX;10;1 550;NaN;NaN;NaN
+2250767972238;169802728;Femme;Cote d¿Ivoire;Daloa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;3;700;NaN;NaN;NaN
+2250701717392;169761004;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;5;5 000;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250788272018;169777213;Femme;Cote d¿Ivoire;Abengourou;Digital Hesitant;PASS DATA;6;2 500;NaN;NaN;NaN;PASS MIX;5;1 700;NaN;NaN;NaN
+2250787299225;169803928;Homme;Cote d¿Ivoire;Abidjan;Fun Seeker;PASS DATA;3;1 400;NaN;NaN;NaN;PASS MIX;10;4 500;NaN;NaN;NaN
+2250777173923;169802389;Femme;Cote d¿Ivoire;Man;Young Aspirer;PASS DATA;1;1 000;NaN;NaN;NaN;PASS MIX;14;6 800;NaN;NaN;NaN
+2250787800996;169541432;Femme;Cote d¿Ivoire;Bouake;Digital Hesitant;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;8;2 500;NaN;NaN;NaN
+2250759759787;169590880;Homme;Cote d¿Ivoire;Bouake;Digital Hesitant;PASS DATA;5;1 200;NaN;NaN;NaN;PASS MIX;4;1 100;NaN;NaN;NaN
+2250758467502;169496222;Homme;Cote d¿Ivoire;Bouake;Rural Basic;PASS DATA;1;200;NaN;NaN;NaN;PASS MIX;18;6 200;NaN;NaN;NaN
+2250748878772;169499922;Femme;Cote d¿Ivoire;Soubre;Rural Basic;PASS DATA;2;2 000;NaN;NaN;NaN;PASS MIX;2;6 000;NaN;NaN;NaN
+2250747946933;169464982;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250749347765;170101621;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250758436794;169540365;Femme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748901309;169477715;Homme;Cote d¿Ivoire;Daloa;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709491646;169469191;Homme;Cote d¿Ivoire;Bouake;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250777458624;169554009;Femme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250747795393;169418955;Homme;Cote d¿Ivoire;Bouake;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250709313472;169470178;Homme;Cote d¿Ivoire;Soubre;Digital Hesitant;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250797017037;169445064;Homme;Cote d¿Ivoire;Man;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707380174;169413516;Femme;Cote d¿Ivoire;Yamoussoukro;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250748004302;169456345;Homme;Cote d¿Ivoire;Gagnoa;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250707947472;169750955;Homme;Cote d¿Ivoire;Abidjan;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250708324308;169462026;Homme;Cote d¿Ivoire;Bouake;Rural Basic;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250767912919;170048122;Homme;Cote d¿Ivoire;Abidjan;Young Aspirer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250757584855;169503072;Femme;Cote d¿Ivoire;Divo;Digital Newcomer;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2250768811998;170069266;Homme;Cote d¿Ivoire;Abidjan;Elite Tech;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;10;7 500;NaN;NaN;NaN
+2250778249183;169345941;Femme;Cote d¿Ivoire;Abidjan;Fun Seeker;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;10;9 000;NaN;NaN;NaN
+2250759575526;169807973;Homme;Cote d¿Ivoire;Daloa;Digital Hesitant;PASS DATA;27;21 600;NaN;NaN;NaN;PASS MIX;11;2 350;NaN;NaN;NaN
+2250788095975;169542031;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;4;1 600;NaN;NaN;NaN;PASS MIX;2;800;NaN;NaN;NaN
+2250787010547;169546509;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;NaN;NaN;NaN;NaN;NaN;NaN;PASS MIX;24;7 100;NaN;NaN;NaN
+2250747154420;170109732;Homme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;3;900;NaN;NaN;NaN;PASS MIX;2;500;NaN;NaN;NaN
+2250788198396;170098619;Femme;Cote d¿Ivoire;Abidjan;Collective Engaged;PASS DATA;15;5 400;NaN;NaN;NaN;PASS MIX;2;700;NaN;NaN;NaN
+2250700894205;169555954;Homme;Cote d¿Ivoire;Daloa;Digital Newcomer;PASS DATA;3;700;NaN;NaN;NaN;PASS MIX;7;1 800;NaN;NaN;NaN
